@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnkwesibaiden
-- 👀 I’m interested in learning materials in AI , machine learning and deployment
-- 🌱 I’m currently learning AI and Machine learning
-- 💞️ I’m looking to collaborate and to be mentored in AI and machine learning
+- 👀 I’m interested in learning materials in AI & machine learning 
+- 🌱 I’m currently a Data scientist and Analiyst
+- 💞️ I’m looking to collaborate and with AI and machine learning companies
 - 📫 How to reach me johnkwesibaiden@yahoo.co.uk
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
