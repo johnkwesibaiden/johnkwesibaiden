@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning materials in AI , machine learning and deployment
 - 🌱 I’m currently learning AI and Machine learning
 - 💞️ I’m looking to collaborate and to be mentored in AI and machine learning
-- 📫 How to reach me johnkwesibaiden@gmail.com
+- 📫 How to reach me johnkwesibaiden@yahoo.co.uk
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
