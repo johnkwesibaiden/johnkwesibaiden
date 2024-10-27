@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnkwesibaiden
-- 👀 I’m interested in Exploring and Analyzing datasets to make decisive data driven decisions
+- 👀 I’m interested in Exploring and Analyzing datasets to understand and make data driven decisions
 - 🌱 I’m currently a Data scientist and Analystics
 - 💞️ I’m looking to forward to incoorperate machine learning and AI into my Data scientist and Analystics skills
 - 📫 How to reach me johnkwesibaiden@gmail.com
