@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnkwesibaiden
-- 👀 I’m interested in learning materials in AI & machine learning 
-- 🌱 I’m currently a Data scientist and Analiyst
-- 💞️ I’m looking to collaborate and with AI and machine learning companies
+- 👀 I’m interested in Exploring and Analyzing datasets to make decisive data driven decisions
+- 🌱 I’m currently a Data scientist and Analystics
+- 💞️ I’m looking to forward to incoorperate machine learning and AI into my Data scientist and Analystics skills
 - 📫 How to reach me johnkwesibaiden@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
