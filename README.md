@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning materials in AI & machine learning 
 - 🌱 I’m currently a Data scientist and Analiyst
 - 💞️ I’m looking to collaborate and with AI and machine learning companies
-- 📫 How to reach me johnkwesibaiden@yahoo.co.uk
+- 📫 How to reach me johnkwesibaiden@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
