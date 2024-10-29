@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @johnkwesibaiden
+- 👋 Hi, I’m John Kwesi Baiden
 - 👀 I’m interested in Exploring and Analyzing datasets to understand and make data driven decisions
 - 🌱 I’m currently a Data scientist and Analystics
-- 💞️ I’m looking to forward to incoorperate machine learning and AI into my Data scientist and Analystics skills
+- 💞️ I’m looking to forward to collaborate on Data analysis projects
 - 📫 How to reach me johnkwesibaiden@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have not arrived yet, I'm work in-progress
 
-<!---
-johnkwesibaiden/johnkwesibaiden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
